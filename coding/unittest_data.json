@@ -5,13 +5,13 @@
     "data": {
         "0": {
             "name": "User 1", 
-            "text": "BAAAA", 
+            "text": "BAAAAA", 
             "total": 15, 
             "values": [ 1, 2, 3, 4, 5 ]
         }, 
         "1": {
             "name": "User 2", 
-            "text": "AAAAB", 
+            "text": "AAAAAB", 
             "total": 25, 
             "values": [5, 5, 5, 5, 5 ]
         }
