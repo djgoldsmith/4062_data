@@ -6,13 +6,13 @@
         "0": {
             "name": "User 1", 
             "text": "BAAAA", 
-            "total": 10, 
+            "total": 15, 
             "values": [ 1, 2, 3, 4, 5 ]
         }, 
         "1": {
             "name": "User 2", 
             "text": "AAAAB", 
-            "total": 27, 
+            "total": 25, 
             "values": [5, 5, 5, 5, 5 ]
         }
     }, 
