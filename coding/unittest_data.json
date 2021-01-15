@@ -7,14 +7,13 @@
             "name": "User 1", 
             "text": "BAAAA", 
             "total": 10, 
-            "values": [ 0, 0, 5, 0, 5 ]
+            "values": [ 1, 2, 3, 4, 5 ]
         }, 
         "1": {
             "name": "User 2", 
             "text": "AAAAB", 
             "total": 27, 
-            "values": [7, 1, 2, 9, 8
-            ]
+            "values": [5, 5, 5, 5, 5 ]
         }
     }, 
     "dataset": "testdata"
