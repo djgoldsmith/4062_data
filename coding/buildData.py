@@ -43,7 +43,7 @@ output = {"dataset" : "testdata",
         }
 
 
-with open("testdata.json", "w") as fd:
-    out = json.dump(output, fd, sort_keys=True, indent=4)
-
+with open("testdata2.json", "w") as fd:
+    #out = json.dump(output, fd, sort_keys=True, indent=4)
+    out = json.dump(output, fd)
 
