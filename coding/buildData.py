@@ -4,11 +4,11 @@ import string
 
 STRLEN = 10
 
-flag = "CUEH{testflag}"
+flag = "CUEH{PyFlag}"
 
 data = {}
 checksum = []
-names = ["dan", "james", "terry", "tono", "john"]
+names = ["dan", "james", "terry", "tono", "john","fred","barney","wilma","pebbles","betty","bambam","xiang"]
 
 import pprint
 
@@ -43,7 +43,7 @@ output = {"dataset" : "testdata",
         }
 
 
-with open("testdata2.json", "w") as fd:
+with open("testdata.json", "w") as fd:
     #out = json.dump(output, fd, sort_keys=True, indent=4)
     out = json.dump(output, fd)
 

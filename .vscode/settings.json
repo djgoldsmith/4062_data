@@ -2,5 +2,6 @@
     "spellright.language": [],
     "spellright.documentTypes": [
         "latex"
-    ]
+    ],
+    "python.pythonPath": "C:\\Users\\dang\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
 }
