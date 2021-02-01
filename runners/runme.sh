@@ -1,3 +1,4 @@
+cat data.txt|figlet
 echo ICAgICAgICAgICAgICAgIF9fX18=|base64 -d
 echo
 echo ICAgICAgICAgICAgICxkUDlDR0c4OEBiLA==|base64 -d
