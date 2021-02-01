@@ -1,16 +1,28 @@
-#!/usr/bin/env sh
-echo "                ____"
-echo "            ,dP9CGG88@b,"
-echo "          ,IP""YICCG888@@b,"
-echo "         dIi   ,IICGG8888@b"
-echo "        dCIIiciIICCGG8888@@b"
-echo "        GCCIIIICCCGGG8888@@@"
-echo "        GGCCCCCCCGGG88888@@@"
-echo "        GGGGCCCGGGG88888@@@@..."
-echo "        Y8GGGGGG8888888@@@@P....."
-echo "         Y88888888888@@@@@P......"
-echo "          Y8888888@@@@@@@P'......"
-echo "            .@@@@@@@@@P'......."
-echo "                """"........"
-echo "fl"
-
+echo ICAgICAgICAgICAgICAgIF9fX18=|base64 -d
+echo
+echo ICAgICAgICAgICAgICxkUDlDR0c4OEBiLA==|base64 -d
+echo
+echo ICAgICAgICAgICAsSVAiIllJQ0NHODg4QEBiLA==|base64 -d
+echo
+echo ICAgICAgICAgIGRJaSAgICxJSUNHRzg4ODhAYg==|base64 -d
+echo
+echo ICAgICAgICAgZENJSWljaUlJQ0NHRzg4ODhAQGI=|base64 -d
+echo
+echo ICAgICAgICAgR0NDSUlJSUNDQ0dHRzg4ODhAQEA=|base64 -d
+echo
+echo ICAgICAgICAgR0dDQ0NDQ0NDR0dHODg4ODhAQEA=|base64 -d
+echo
+echo ICAgICAgICAgR0dHR0NDQ0dHR0c4ODg4OEBAQEAuLi4=|base64 -d
+echo
+echo ICAgICAgICAgWThHR0dHR0c4ODg4ODg4QEBAQFAuLi4uLg==|base64 -d
+echo
+echo ICAgICAgICAgIFk4ODg4ODg4ODg4OEBAQEBAUC4uLi4uLg==|base64 -d
+echo
+echo ICAgICAgICAgIGBZODg4ODg4OEBAQEBAQEBQJy4uLi4uLg==|base64 -d
+echo
+echo ICAgICAgICAgICAgIGBAQEBAQEBAQEBQJy4uLi4uLi4=|base64 -d
+echo
+echo ICAgICAgICAgICAgICAgICAiIiIiLi4uLi4uLi4=|base64 -d
+echo
+echo IGZs|base64 -d
+echo
