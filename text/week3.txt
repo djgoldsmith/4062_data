@@ -1,3 +1,5 @@
+ZOMBIE                         _,--~~~,
+9
 9
 9
 9
@@ -14,6 +16,11 @@ with this eBook or online at www.gutenberg.org
 9
 9
 9
+ZOMBIE                        .'        `.
+ZOMBIE                        |           ;
+ZOMBIE                        |           :
+ZOMBIE                       /_,-==/     .'
+9
 Title: Night of the Living Dead
 9
 9
@@ -29,6 +36,10 @@ Character set encoding: ISO-646-US (US-ASCII)
 9
 9
 ***START OF THE PROJECT GUTENBERG EBOOK NIGHT OF THE LIVING DEAD***
+9
+ZOMBIE                     /'`\*  ;      :      
+ZOMBIE                   :'    `-        :      
+ZOMBIE                   `~*,'     .     :      
 9
 9
 9
@@ -54,6 +65,12 @@ was harvested, the Internet Archive.
 This and all associated files of various formats will be found in:
 http://www.gutenberg.org/dirs/2/3/0/5/23053
 9
+ZOMBIE                      :__.,._  `;  :      
+ZOMBIE                      `\'    )  '  `,     
+ZOMBIE                          \-/  '     )     
+ZOMBIE                          :'          \ _
+ZOMBIE                           `~---,-~    `,)
+ZOMBIE           ___                   \     /~`\
 9
 9
 Updated editions will replace the previous one--the old editions
@@ -90,6 +107,11 @@ Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://www.gutenberg.org/license).
 9
+ZOMBIE     \---__ `;~~~-------------~~~(| _-'    `,
+ZOMBIE   ---, ' \`-._____     _______.---'         \
+ZOMBIE  \--- `~~-`,      ~~~~~~                     `,
+ZOMBIE \----      )                                   \
+9
 9
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
@@ -114,6 +136,10 @@ paragraph 1.C below.  There are a lot of things you can do with Project
 Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 works.  See paragraph 1.E below.
+ZOMBIE \----.  __ /                                    `-
+ZOMBIE  \----'` -~____  
+ZOMBIE                ~~~~~--------,.___     -szaman-
+ZOMBIE                                  ```\_
 9
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
@@ -419,4 +445,5 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+9
 9
