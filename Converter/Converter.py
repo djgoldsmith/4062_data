@@ -1,11 +1,11 @@
 import base64
 
-FILENAME = "../ascii_art/dino_ascii.txt"
+FILENAME = "../ascii_art/raptorBMX.txt"
 OUTFILE = "target.sh"
 
-outArray = []
+outArray = ["echo '\n'"]
 
-idx = 0 
+idx = 100
 with open(FILENAME,"r") as fd:
     for line in fd:
         theStr = "{0} {1}".format(idx, line)
@@ -14,7 +14,11 @@ with open(FILENAME,"r") as fd:
 
         idx +=1
 
-outArray.append("echo '\n'")        
+#outArray.reverse()
+import random
+random.shuffle(outArray)
 
-for line in outArray:
-    print(line)
+for item in outArray:
+    print(item)
+
+
