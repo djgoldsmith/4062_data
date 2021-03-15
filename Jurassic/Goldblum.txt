@@ -1655,8 +1655,8 @@ A18 	EXT	VISITOR'S CENTER	DAY
 	up and head for the door of the hatchery.
 
 
-0002                  `"""'  `'                              `~?&qo:?:',p#/'
-0001                                                            "^~<:>/"
+9002                  `"""'  `'                              `~?&qo:?:',p#/'
+9001                                                            "^~<:>/"
 				GENNARO
 		Hey!  You can't do that!
 
@@ -1710,8 +1710,8 @@ A18 	EXT	VISITOR'S CENTER	DAY
 		Right!  Come along.
 
 
-0004                9/L||1+ "HH  .$/                    `bZ&\       ,o\&|}6| &/'
-0003                 \?$.:?ooo/*""'                       `\$$b_   |\9|/|?:./'
+9004                9/L||1+ "HH  .$/                    `bZ&\       ,o\&|}6| &/'
+9003                 \?$.:?ooo/*""'                       `\$$b_   |\9|/|?:./'
 
 
 INT	HATCHERY/NURSERY	DAY
@@ -1755,8 +1755,8 @@ INT	HATCHERY/NURSERY	DAY
 
 	Hammond puts on a pair of plastic gloves.
 
-0006               bT,    ..   v,?|\                   M||               .:Z|&\.
-0005               ||H  _oZ??v~>`d9H|                  `?*\              ?$ `#'H
+9006               bT,    ..   v,?|\                   M||               .:Z|&\.
+9005               ||H  _oZ??v~>`d9H|                  `?*\              ?$ `#'H
 
 	The egg begins to crack.  The robotic arm moves away....a BABY 
 	DINOSAUR tries to get out, just its head sticking out of the shell.
@@ -1793,8 +1793,8 @@ INT	HATCHERY/NURSERY	DAY
 	Hammond keeps his attention trained on the new dinosaur.
 
 
-0008              9`|         `Hi:R&:&&6&="'           ./$J|       `^"\Z\.
-0007              ||M          `=Z\:""                 H|T"            `&H&>v_
+9008              9`|         `Hi:R&:&&6&="'           ./$J|       `^"\Z\.
+9007              ||M          `=Z\:""                 H|T"            `&H&>v_
 
 
 				HAMMOND
@@ -2065,8 +2065,8 @@ INT	HATCHERY/NURSERY	DAY
 		She had them all attacking the fences when the feeders 
 		came.
 
-0010              J||                       ,$?/         M||         ?$/
-0009              M||         |>\.     ._,~9$''          T||        d'M.
+9010              J||                       ,$?/         M||         ?$/
+9009              M||         |>\.     ._,~9$''          T||        d'M.
 
 				ELLIE
 		The fences are electrified, right?
@@ -2113,8 +2113,8 @@ INT	HATCHERY/NURSERY	DAY
 	become increasingly friendly with Hammond, even giddy, grins from ear 
 	to ear.
 
-0012               ,*/''  `\?        `'        ./?ov=="*b9,            ,$P
-0011              ,Td                         ,$$'`'    ?|M           ,$/
+9012               ,*/''  `\?        `'        ./?ov=="*b9,            ,$P
+9011              ,Td                         ,$$'`'    ?|M           ,$/
 
 				GENNARO
 		And we can charge anything we want!  Two thousand a day, 
@@ -2281,8 +2281,8 @@ INT	HATCHERY/NURSERY	DAY
 
 	He leans forward, a look of true concern on his face.
 
-0014                         d\/qZbo.            M          .,='        ,|T
-0013                ./~&$$?=??/' `"=H$|          H       .o=''          J\|
+9014                         d\/qZbo.            M          .,='        ,|T
+9013                ./~&$$?=??/' `"=H$|          H       .o=''          J\|
 
 				GRANT (cont'd)
 		Dinosaurs and man - - two species separated by 65 
@@ -2608,8 +2608,8 @@ INT	CONTROL ROOM
 				TIM
 		Dilophosaurus.
 
-0030           \/b         .&J'  `\>     d'                      T,
-0029            &`L        /||          ?|                        ?,
+9030           \/b         .&J'  `\>     d'                      T,
+9029            &`L        /||          ?|                        ?,
 
 
 	IN THE REAR CAR
@@ -2798,8 +2798,8 @@ INT	CONTROL ROOM
 
 	LEX and TIM look at the goat with widely different reactions.
 
-0016                        *?9\               `b                .&'    |/|
-0015                         `|`\.              `L             ./'      `|H
+9016                        *?9\               `b                .&'    |/|
+9015                         `|`\.              `L             ./'      `|H
 
 				LEX
 		What's going to happen to the goat?  He's going to eat 
@@ -2897,8 +2897,8 @@ INT	CONTROL ROOM
 			(points to the glass of water)
 		Here.  Give me your glass of water.
 
-0028            ||9       J\T           H                          ?,
-0027             H||     ||/           ||                           9,
+9028            ||9       J\T           H                          ?,
+9027             H||     ||/           ||                           9,
 
 
 	He dips his hand into the glass of water.  He takes Ellie's hand 
@@ -3103,8 +3103,8 @@ INT	CONTROL ROOM
 		Sure.
 
 
-0018                    `\o/\.              `&.                     ,P 9/L
-0017                       9:&.              `9\                   ??  `H9.
+9018                    `\o/\.              `&.                     ,P 9/L
+9017                       9:&.              `9\                   ??  `H9.
 
 
 	Grant walks next to the animal and strokes its head.  Ellie 
@@ -3348,8 +3348,8 @@ INT	CONTROL ROOM
 				TIM
 		I've seen pictures of these!
 
-0020                 `\?(|H.              `b                          ?b
-0019                  `*\ `&.              `\.                       J*|b
+9020                 `\?(|H.              `b                          ?b
+9019                  `*\ `&.              `\.                       J*|b
 
 
 	Grant turns and looks at him, a little annoyed.
@@ -3817,8 +3817,8 @@ THRU	OMITTED
 		Shit!
 
 
-0032      `^$?\.           `*&*\\          ,P       ?~-~'      |$$S>'
-0031         `\7b           ,T/\&&\.      d?                    |T'
+9032      `^$?\.           `*&*\\          ,P       ?~-~'      |$$S>'
+9031         `\7b           ,T/\&&\.      d?                    |T'
 
 
 	He throws the door open and hurries to the fallen sign:  "To The 
@@ -3830,8 +3830,8 @@ THRU	OMITTED
 	Although he doesn't look too convinced, he drops the car in gear 
 	and speeds off to the left.
 
-0022               `L9, M|              `&.                           |
-0021                `?*,9||              `b                           d
+9022               `L9, M|              `&.                           |
+9021                `?*,9||              `b                           d
 
 57	EXT	CONTROL ROOM	NIGHT
 
@@ -4261,8 +4261,8 @@ THRU	OMITTED
 
 	The tire EXPLODES, startling the animal.
 
-0024              T/L   H||            `b                             M
-0023               &T,  M|              9,                            9
+9024              T/L   H||            `b                             M
+9023               &T,  M|              9,                            9
 
 72	INSIDE THE CAR,
 
@@ -4274,8 +4274,8 @@ THRU	OMITTED
 	Tim is ahead, nearing the back window, when there is a CRUNCH 
 	and a seat comes down, pinning him.
 
-0042      `b?\          9/?      ??H            |L *b.,'"\          :$:&    HJ'
-0041       `b$\o.       */\.      ??*b.          9.  `\\:(|      .,/$6d'   |\T
+9042      `b?\          9/?      ??H            |L *b.,'"\          :$:&    HJ'
+9041       `b$\o.       */\.      ??*b.          9.  `\\:(|      .,/$6d'   |\T
 
 
 73	ON THE ROAD,
@@ -4700,8 +4700,8 @@ A80	INT	CONTROL ROOM	NIGHT
 	embankment.  He freezes, as he feels something behind him.  He turns 
 	around slowly and sees:
 
-0026             ||M     PJ'           ||                           `H
-0025              bT,   ||T            ||                            ||
+9026             ||M     PJ'           ||                           `H
+9025              bT,   ||T            ||                            ||
 
 
 	A dilophosaur.  It stands only about four feet high, its spotted 
@@ -4809,8 +4809,8 @@ A80	INT	CONTROL ROOM	NIGHT
 
 82	OMITTED
 
-0044       .,o--vo\,PJ'H|,      H|L        ``'"H?b                 ,-`?\     ,&&'
-0043      ,P?-""^==:=' ||b      `L9,           `H`&,               |?:!||   ,P&
+9044       .,o--vo\,PJ'H|,      H|L        ``'"H?b                 ,-`?\     ,&&'
+9043      ,P?-""^==:=' ||b      `L9,           `H`&,               |?:!||   ,P&
 
 83	EXT	PARK GROUNDS	NIGHT
 
@@ -5050,8 +5050,8 @@ A80	INT	CONTROL ROOM	NIGHT
 			(Grant picks Tim up)
 		He's okay.
 
-0040        ``\Z\\       `|7b.    ,To?&b.         \(\:-.-S:-~=-"'',P       MJ'
-0039           `\?*b      ?&&\.   d\|<_ `\o_       `&&M\:?-+#:>\.|,&'     |LT 
+9040        ``\Z\\       `|7b.    ,To?&b.         \(\:-.-S:-~=-"'',P       MJ'
+9039           `\?*b      ?&&\.   d\|<_ `\o_       `&&M\:?-+#:>\.|,&'     |LT 
 
 
 	Still nothing.  Grant tries a new tact.
@@ -5164,8 +5164,8 @@ A80	INT	CONTROL ROOM	NIGHT
 	like the one Nedry took earlier.  Neither of them speak, they just 
 	stare ahead grimly, wondering what they're about to find.
 
-0034  :.             ""=o/&.                ,P    o&Z'`'.##| |MH\|| ,$$'
-0033  =:$H&=\.           `"b?b.             .&'    96*.-v.:?/`\==$&?$&*'
+9034  :.             ""=o/&.                ,P    o&Z'`'.##| |MH\|| ,$$'
+9033  =:$H&=\.           `"b?b.             .&'    96*.-v.:?/`\==$&?$&*'
 
 				MULDOON
 		There they are!
@@ -5230,8 +5230,8 @@ A80	INT	CONTROL ROOM	NIGHT
 	Muldoon lays Malcolm as carefully as possible in the back of the 
 	jeep.
 
-0046                 ._.        H||           .                  `*\H,   `&$$S:7|
-0045                |????       M|,        ,--&|\                  `&?b     ""://
+9046                 ._.        H||           .                  `*\H,   `&$$S:7|
+9045                |????       M|,        ,--&|\                  `&?b     ""://
 
 				MALCOLM
 		Where are the kids?
@@ -5683,8 +5683,8 @@ A80	INT	CONTROL ROOM	NIGHT
 				HAMMOND
 		(When) Once we have control again we - -
 
-0048                            ,*??	        `"       ""'  b'\\$$&&\.
-0047                           .Td'                            `&:`H'  "&7, .__
+9048                            ,*??	        `"       ""'  b'\\$$&&\.
+9047                           .Td'                            `&:`H'  "&7, .__
 
 				ELLIE
 		Control?!  You never had control!  I was overwhelmed by 
@@ -5835,8 +5835,8 @@ A80	INT	CONTROL ROOM	NIGHT
 
 96A	OMITTED
 
-0050                               ,/?/'        /\|6?`|  |<<q- ,??
-0049                              ./?/'        `\??dp'   $??,/|,i\.
+9050                               ,/?/'        /\|6?`|  |<<q- ,??
+9049                              ./?/'        `\??dp'   $??,/|,i\.
 
 
 97	ON THE GROUND,
@@ -6189,8 +6189,8 @@ A99	EXT	COMPOUND	DAY
 				GRANT
 		STAMPEDE!
 
-0052                                   .&?/'              `""$$,
-0051                                 ,/?/'       /-"^\.   .-=~\T,
+9052                                   .&?/'              `""$$,
+9051                                 ,/?/'       /-"^\.   .-=~\T,
 
 	And that's exactly what it is, a stampede of at least forty 
 	dinosaurs, Gallimimus by name.  Lex is ready to get out of there, but 
@@ -6764,8 +6764,8 @@ THRU	OMITTED
 				GRANT
 		Go, go, go, jump!
 
-0054                                       _o=<&&&&>=vo__
-0053                                     ?/$="'"  """^=<&&R$~\
+9054                                       _o=<&&&&>=vo__
+9053                                     ?/$="'"  """^=<&&R$~\
 
 				TIM
 		You're crazy!  I'm not gonna jump!
@@ -7165,8 +7165,8 @@ B121	EXT	JUNGLE	DAY
 	the kids, who manage to keep quiet.
 
 
-0036    _o~=~$&$>==v\.??\,           `\d `\$$'9P':-?>:"=\ooo/=/$$~?$\     ,R/
-0035  ./$?~^'"""""`"\\&&< ?b               "`~$P:c: /v==v,#::?<<&:'T|   d$/'
+9036    _o~=~$&$>==v\.??\,           `\d `\$$'9P':-?>:"=\ooo/=/$$~?$\     ,R/
+9035  ./$?~^'"""""`"\\&&< ?b               "`~$P:c: /v==v,#::?<<&:'T|   d$/'
 
 
 	The kids keep moving as one of the raptors dips down, looking 
@@ -7247,8 +7247,8 @@ B121	EXT	JUNGLE	DAY
 	for support and they take off.
 
 
-0038             `\?\\      ``\?\d|/`4RM|:~:$=v\.    `$k<MR&MF$$7&J'      HJ'    
-0037              `\?\.        `\b/$$$&v!-?&<?::P\\    `"^-^-?b=Sd'      |\T
+9038             `\?\\      ``\?\d|/`4RM|:~:$=v\.    `$k<MR&MF$$7&J'      HJ'    
+9037              `\?\.        `\b/$$$&v!-?&<?::P\\    `"^-^-?b=Sd'      |\T
 
 
 128	INT	RESTAURANT	DAY
